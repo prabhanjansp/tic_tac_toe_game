@@ -1,6 +1,9 @@
 # 🎮 Tic Tac Toe Game with React ⚛️
 
 ![Game Screenshot](public/image.png) *(Add your screenshot here)*
+## 🚀 Live Demo
+You can check out the live version of the project [here](https://tic-tac-toe-game-red-kappa.vercel.app/).
+
 
 A beautiful, responsive Tic Tac Toe game built with React, featuring:
 - ✨ Light/dark mode toggle
