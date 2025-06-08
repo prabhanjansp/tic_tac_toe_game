@@ -1,6 +1,6 @@
 # 🎮 Tic Tac Toe Game with React ⚛️
 
-![Game Screenshot](public/screenshot.png) *(Add your screenshot here)*
+![Game Screenshot](public/image.png) *(Add your screenshot here)*
 
 A beautiful, responsive Tic Tac Toe game built with React, featuring:
 - ✨ Light/dark mode toggle
